@@ -1,7 +1,7 @@
 # Task 4 – Comparative Study of Bioinformatics Databases
 
 ## Overview
-This The project focuses on a comparative study of three widely used bioinformatics databases: NCBI, UniProt, and the Protein Data Bank (PDB).
+This project focuses on a comparative study of three widely used bioinformatics databases: NCBI, UniProt, and the Protein Data Bank (PDB).
 
 ## Objective
 
