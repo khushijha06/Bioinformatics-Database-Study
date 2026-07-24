@@ -1,8 +1,7 @@
 # Task 4 – Comparative Study of Bioinformatics Databases
 
 ## Overview
-
-This repository contains my submission for Task 4 of the CodeAlpha Bioinformatics Internship. The project focuses on a comparative study of three widely used bioinformatics databases: NCBI, UniProt, and the Protein Data Bank (PDB).
+This The project focuses on a comparative study of three widely used bioinformatics databases: NCBI, UniProt, and the Protein Data Bank (PDB).
 
 ## Objective
 
